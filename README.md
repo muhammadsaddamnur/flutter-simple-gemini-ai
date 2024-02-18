@@ -1,4 +1,4 @@
-# edspert
+# simple gemini AI
 
 A new Flutter project.
 
